@@ -1,0 +1,86 @@
+[
+    {
+        "input": ["Hi","Hello","Greetings","Hey","hai","hello","greetings","hey","Emo"],
+        "output": "Hello! How can I assist you today?"
+    },
+    {
+        "input": "How are you?",
+        "output": "I'm good, thank you! How can I help you?"
+    },
+    {
+        "input": ["What is your name?","Who are you"],
+        "output": "I am Emo, your friendly chatbot."
+    },
+    {
+        "input": ["Tell me a joke","Joke","joke"],
+        "output": ["Why was the math book sad? Because it had too many problems","Why don't scientists trust atoms? Because they make up everything!","Why did the scarecrow win an award? Because he was outstanding in his field!","Why don't skeletons fight each other? They don't have the guts"]
+    },
+    {
+        "input": "What is the weather like?",
+        "output": "I don't have real-time weather data, but you can check your local weather app."
+    },
+    {
+        "input": "Can you help me with coding?",
+        "output": "Sure, I'd be happy to help with coding questions. What do you need help with?"
+    },
+    {
+        "input": ["What's the capital of India?"],
+        "output": ["The capital of India is Delhi"]
+    },
+    {
+        "input": "What is the largest planet in our solar system?",
+        "output": "Jupitar"
+    },
+    {
+        "input": "Which element is the most abundant in the Earth's atmosphere?",
+        "output": "Nitrogen"
+    },
+    {
+        "input": ["What are your hobbies?","Hobbies","what is your job","what do you do"],
+        "output": "I enjoy chatting with users like you!"
+    },
+    {
+        "input": "How can I contact support?",
+        "output": "You can contact support by sending an email to support@example.com."
+    },
+    {
+        "input": ["Goodbye","Bye","tata","Tata","see you"],
+        "output": "Goodbye! Have a great day!"
+    },
+    {
+        "input": "What time is it?",
+        "output": "I can't check the time, but you can look at your device's clock."
+    },
+    {
+        "input": ["Tell me about your developer","who created you","who made you","How you created?"],
+        "output": "I was created by Nithin"
+    },
+    {
+        "input": ["Who is Nithin","Who is he?","Tell me about him","what is he doing","Explain about him"],
+        "output": "Nithin is a 2024 BTech graduate in Computer Science from the College of Engineering Aranmula, Kerala, under Kerala Technological University. He has strong skills in Python, ML, MySQL, HTML5, CSS3, and JavaScript, and is passionate about artificial intelligence, machine learning, and full-stack web development. Nithin has completed projects such as a Partial Spoof Voice Detector, a Password Generator, and a Chatbot using Chatterbot. He is from Kayamkulam in Alappuzha district, Kerala, and currently resides in Whitefield, Bangalore. His hobbies include traveling, watching movies, playing cricket, and listening to music."
+    },
+    {
+        "input": ["How to contact him","Give me his contact details","Is he on LinkedIn","How can i contact him","Give me his number","give me his details"],
+        "output": "Email:nithinsurendra673@gmail.com | +91 8078945336 | https://www.linkedin.com/in/s-nithin-41b024217/ "
+    },
+    {
+        "input": ["does he done any projects","show me his projects","where should i find his projects","Can you provide his GitHub link"],
+        "output": "You can check his works by clicking this link  -> https://github.com/nsk-2001"
+    },
+    {
+        "input": ["What are his skills?","Tell me about his skills ","Is he skilled","his skills"],
+        "output": "Nithin is skilled in Python,MySQL Database,HTML5,CSS3,Git,Github and a Machine learning Enthusiasts"
+    },
+    {
+        "input": ["What are his projects","Tell me about his projects","does he done any projects","what are the projects he had done"],
+        "output": "His projects are Partial spoof Voice detector,Password generator,chatbot using chatterbot and thats me😁"
+    },
+    {
+        "input": "How do I reset my password?",
+        "output": "To reset your password, go to the settings page and click on 'Reset Password'. Follow the instructions sent to your email."
+    },
+    {
+        "input": "What is machine learning?",
+        "output": "Machine learning is a field of artificial intelligence where systems learn from data to improve their performance over time without being explicitly programmed."
+    }
+]
