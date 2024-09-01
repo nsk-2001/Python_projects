@@ -12,7 +12,7 @@ Accuracy: The model achieves a high accuracy rate in distinguishing between genu
 Scalability: Can be adapted to detect spoofing in various languages and voice types.
 **Sample Outputs::**
 
-**1. Main UI **
+**1. Main UI**
 
 ![f63497d1-eea6-40d7-883c-beea10f28983](https://github.com/user-attachments/assets/9f300db5-68ca-432c-a41e-9531998adf0b)
 
