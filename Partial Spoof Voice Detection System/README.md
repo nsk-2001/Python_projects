@@ -29,9 +29,9 @@ _Description: Here, you can see a visualization of the MFCC features extracted f
 
 ![447cc6b3-47d8-42d4-b609-6e5209dd00b0](https://github.com/user-attachments/assets/a6a0dc36-cb6d-4461-8d34-3cdf70a77caa)
 
-Description: The confusion matrix illustrates the model's performance, showing the number of true positive, true negative, false positive, and false negative predictions.
+_Description: The confusion matrix illustrates the model's performance, showing the number of true positive, true negative, false positive, and false negative predictions._
 
-
-Future Work
-Improvement in Accuracy: Fine-tuning the model with more diverse datasets and advanced algorithms.
+**Future Work**
+_Improvement in Accuracy: Fine-tuning the model with more diverse datasets and advanced algorithms.
 Real-Time Detection: Implementing the system for real-time voice authentication applications.
+_
